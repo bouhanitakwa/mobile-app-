@@ -1,0 +1,18 @@
+{
+  "analysis_id": "a0005a22-84c3-4e45-a21c-730916eeab71",
+  "timestamp": "2025-07-16T10:43:18.728011",
+  "num_differences": 124,
+  "similarity": 0.6568438056939007,
+  "difference_percentage": 34.743378433784336,
+  "alignment_method": "phase",
+  "saved_files": {
+    "image1_original": "results\\a0005a22-84c3-4e45-a21c-730916eeab71\\image1_original.jpg",
+    "image2_original": "results\\a0005a22-84c3-4e45-a21c-730916eeab71\\image2_original.jpg",
+    "image1_marked": "results\\a0005a22-84c3-4e45-a21c-730916eeab71\\image1_marked.jpg",
+    "image2_marked": "results\\a0005a22-84c3-4e45-a21c-730916eeab71\\image2_marked.jpg",
+    "superposition": "results\\a0005a22-84c3-4e45-a21c-730916eeab71\\superposition.jpg",
+    "superposition_marked": "results\\a0005a22-84c3-4e45-a21c-730916eeab71\\superposition_marked.jpg",
+    "difference_map": "results\\a0005a22-84c3-4e45-a21c-730916eeab71\\difference_map.jpg",
+    "threshold_map": "results\\a0005a22-84c3-4e45-a21c-730916eeab71\\threshold_map.jpg"
+  }
+}
